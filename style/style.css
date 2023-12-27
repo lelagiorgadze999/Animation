@@ -86,7 +86,7 @@ body {
   animation: jump 1s alternate infinite;
   transition: width 2s;
 }
-.snowman:hover {
+.snowman:hover{
   width: 130px;
 }
 @keyframes jump {
